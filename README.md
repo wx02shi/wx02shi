@@ -1,7 +1,6 @@
 # 👋 I'm William 🎉
 Aspiring software engineer.
 I study computer science @ University of Waterloo.  
-Currently a software developer @ Interac Corp.  
-Former fullstack developer @ WSIB, Heka Health.
+Former software developer @ Interac Corp.  
 
 I encourage you to check out my [website](https://williamshi.vercel.app/)! 
